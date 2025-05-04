@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_splash_logo_change.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_splash_logo_change.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_back.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/anim_slide_in_left.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_splash_logo.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_splash_logo.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/anim_slide_in_right.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/color_navigation_selector_color.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/color/navigation_selector_color.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_big_logo.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_big_logo.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/anim_slide_out_left.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_fragment_picture.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_picture.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_background_spinner_dropdown.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/background_spinner_dropdown.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_button_background_gray.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_button_background_gray.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_activity_start.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_dialog_record_detail.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/dialog_record_detail.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_background_toast_message.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/background_toast_message.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_button.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_button.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_fragment_mypage.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_mypage.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_fragment_video.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_edittext.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_edittext.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_darkedittext.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_darkedittext.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_bottom_sheet.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_round_background_blue.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_round_background_blue.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/xml_backup_rules.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_picture.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_picture.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/font_poppins_regular.ttf.flat",
+        "source": "com.example.deepfake.app-main-80:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_checkbox_fill.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_checkbox_fill.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/anim_slide_out_right.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_app_name.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_app_name.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_chat.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_checkbox_empty.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_checkbox_empty.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_mypage.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_mypage.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_dialog_confirm_signout.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/dialog_confirm_signout.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_fragment_chat.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_activity_login.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_activity_splash.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/font_poppins_bold.ttf.flat",
+        "source": "com.example.deepfake.app-main-80:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_button_background_blue.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_button_background_blue.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_close.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_video.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_item_aichat.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/item_aichat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_chat_sendbutton.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_chat_sendbutton.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_chat_plusbutton.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_chat_plusbutton.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_snackbar.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/snackbar.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_nonestate.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_nonestate.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_logo.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepfake.app-main-80:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_item_mychat.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/item_mychat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_activity_signup.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_chat_background_gray.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_chat_background_gray.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_account.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_round_background_white.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_round_background_white.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_item_log.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/layout_activity_main.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_checkbutton.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_checkbutton.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/drawable_ic_chat_background_white.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/drawable/ic_chat_background_white.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-merged_res-78:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.deepfake.app-main-80:/xml/data_extraction_rules.xml"
+    }
+]

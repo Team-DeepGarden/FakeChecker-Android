@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_darknavy"
+    tools:context=".ui.mypage.MypageFragment">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/mypage_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="마이페이지 My page"
+        android:textColor="@color/app_white"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_logo" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/mypage_cl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="5dp"
+        android:background="@drawable/ic_button"
+        android:backgroundTint="@color/app_white"
+        android:paddingVertical="5dp"
+        app:layout_constraintTop_toBottomOf="@id/mypage_tv_title">
+
+        <ImageView
+            android:id="@+id/mypage_iv_profile_image"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="16dp"
+            android:src="@drawable/ic_account"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/mypage_tv_user_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:fontFamily="@font/poppins_regular"
+            android:text="닉네임"
+            android:textColor="@color/app_blue"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@id/mypage_iv_profile_image"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/mypage_btn_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="2dp"
+            android:background="@drawable/ic_darkedittext"
+            android:fontFamily="@font/poppins_regular"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:minHeight="0dp"
+            android:text="로그아웃"
+            android:textColor="@color/app_darkgray"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toTopOf="@id/mypage_btn_signout"
+            app:layout_constraintEnd_toEndOf="@id/mypage_cl"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/mypage_btn_signout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/ic_darkedittext"
+            android:fontFamily="@font/poppins_regular"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:minHeight="0dp"
+            android:text="회원탈퇴"
+            android:textColor="@color/app_gray"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/mypage_cl"
+            app:layout_constraintTop_toBottomOf="@id/mypage_btn_logout" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/mypage_view_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="8dp"
+        android:background="@color/app_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/mypage_cl" />
+
+    <TextView
+        android:id="@+id/mypage_tv_logrecord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="탐지 레코드"
+        android:textColor="@color/app_white"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@id/mypage_tv_title"
+        app:layout_constraintTop_toBottomOf="@id/mypage_view_line" />
+
+    <Spinner
+        android:id="@+id/mypage_spinner_listed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        app:layout_constraintBottom_toBottomOf="@id/mypage_tv_logrecord"
+        app:layout_constraintEnd_toEndOf="@id/mypage_cl"
+        app:layout_constraintTop_toTopOf="@id/mypage_tv_logrecord" />
+
+    <TextView
+        android:id="@+id/mypage_tv_no_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="기록이 없습니다.\n로그인하고 탐지 기록을 확인해 보세요."
+        android:textColor="@color/app_white"
+        android:textSize="16sp"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="@id/mypage_tv_logrecord"
+        app:layout_constraintTop_toBottomOf="@id/mypage_tv_logrecord" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/mypage_rv_logrecord"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mypage_tv_logrecord" />
+</androidx.constraintlayout.widget.ConstraintLayout>

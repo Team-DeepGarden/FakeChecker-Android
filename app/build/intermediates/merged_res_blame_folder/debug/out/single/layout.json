@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/activity_start.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/activity_splash.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/activity_login.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/activity_signup.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/fragment_mypage.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_mypage.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/snackbar.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/snackbar.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/dialog_record_detail.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/dialog_record_detail.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/dialog_confirm_signout.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/dialog_confirm_signout.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/fragment_chat.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/item_aichat.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/item_aichat.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/fragment_video.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/fragment_picture.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/fragment_picture.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/item_log.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/activity_main.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/bottom_sheet.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.deepfake.app-mergeDebugResources-77:/layout/item_mychat.xml",
+        "source": "com.example.deepfake.app-main-80:/layout/item_mychat.xml"
+    }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_darknavy"
+    tools:context=".login.StartActivity">
+
+    <LinearLayout
+        android:id="@+id/start_ll_intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_big_logo" />
+
+        <TextView
+            android:layout_width="324dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:text="Fakechecker"
+            android:textColor="@color/app_white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_regular"
+            android:text="딥페이크 해결을 위한 애플리케이션"
+            android:textColor="@color/app_white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <android.widget.Button
+        android:id="@+id/start_btn_login"
+        android:layout_width="314dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/ic_button"
+        android:backgroundTint="@color/app_blue"
+        android:fontFamily="@font/poppins_bold"
+        android:text="로그인"
+        android:textColor="@color/app_white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/start_ll_intro" />
+
+    <android.widget.Button
+        android:id="@+id/start_btn_signup"
+        android:layout_width="314dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_button"
+        android:backgroundTint="@color/app_blue"
+        android:fontFamily="@font/poppins_bold"
+        android:text="회원가입"
+        android:textColor="@color/app_white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_login" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/start_btn_guestlogin"
+        android:layout_width="314dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_button"
+        android:backgroundTint="@color/app_darkgray"
+        android:fontFamily="@font/poppins_bold"
+        android:text="게스트 로그인"
+        android:textColor="@color/app_white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_signup" />
+</androidx.constraintlayout.widget.ConstraintLayout>
